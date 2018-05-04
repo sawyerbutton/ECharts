@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41faf12c-f666-4035-9d4a-453028c6bb42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Line/StackedAreaBar/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/StackedLineBar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/StackedLineBar/stackedLineBar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,23 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stackedAreaBar.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Line/StackedLineBar/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="930">
+              <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/main.js">
+      <file leaf-file-name="stackedLineBar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Line/StackedLineBar/stackedLineBar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -65,8 +62,10 @@
         <option value="$PROJECT_DIR$/Line/BasicAreaChart/main.js" />
         <option value="$PROJECT_DIR$/Line/SmoothedLineChart/smoothedLineChart.html" />
         <option value="$PROJECT_DIR$/Line/SmoothedLineChart/main.js" />
-        <option value="$PROJECT_DIR$/Line/StackedAreaBar/main.js" />
         <option value="$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html" />
+        <option value="$PROJECT_DIR$/Line/StackedAreaBar/main.js" />
+        <option value="$PROJECT_DIR$/Line/StackedLineBar/main.js" />
+        <option value="$PROJECT_DIR$/Line/StackedLineBar/stackedLineBar.html" />
       </list>
     </option>
   </component>
@@ -114,7 +113,7 @@
               <item name="firstTry" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstTry" type="462c0819:PsiDirectoryNode" />
               <item name="Line" type="462c0819:PsiDirectoryNode" />
-              <item name="StackedAreaBar" type="462c0819:PsiDirectoryNode" />
+              <item name="StackedLineBar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,26 +140,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.stackedAreaBar.html">
+  <component name="RunManager" selected="JavaScript Debug.stackedLineBar.html">
     <configuration name="basicAreaChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/BasicAreaChart/basicAreaChart.html" />
     <configuration name="basicLineChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/BasicLineChart/basicLineChart.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/index.html" />
     <configuration name="smoothedLineChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/SmoothedLineChart/smoothedLineChart.html" />
     <configuration name="stackedAreaBar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/StackedAreaBar/stackedAreaBar.html" />
+    <configuration name="stackedLineBar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/StackedLineBar/stackedLineBar.html" />
     <list>
-      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.basicLineChart.html" />
       <item itemvalue="JavaScript Debug.basicAreaChart.html" />
       <item itemvalue="JavaScript Debug.smoothedLineChart.html" />
       <item itemvalue="JavaScript Debug.stackedAreaBar.html" />
+      <item itemvalue="JavaScript Debug.stackedLineBar.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.stackedLineBar.html" />
         <item itemvalue="JavaScript Debug.stackedAreaBar.html" />
         <item itemvalue="JavaScript Debug.smoothedLineChart.html" />
         <item itemvalue="JavaScript Debug.basicAreaChart.html" />
         <item itemvalue="JavaScript Debug.basicLineChart.html" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -175,12 +174,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525397762758</updated>
       <workItem from="1525397764041" duration="2796000" />
-      <workItem from="1525457993745" duration="2149000" />
+      <workItem from="1525457993745" duration="2748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4945000" />
+    <option name="totallyTimeSpent" value="5544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -306,13 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -320,6 +312,27 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/StackedLineBar/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/StackedLineBar/stackedLineBar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
         </state>
       </provider>
     </entry>
