@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41faf12c-f666-4035-9d4a-453028c6bb42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Line/BasicAreaChart/basicAreaChart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/BasicAreaChart/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/BasicLineChart/basicLineChart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/BasicLineChart/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/SmoothedLineChart/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/SmoothedLineChart/smoothedLineChart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/StackedAreaBar/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/bar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,20 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Line/BasicAreaChart/main.js">
+      <file leaf-file-name="stackedAreaBar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="165">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Line/SmoothedLineChart/main.js">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="270">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -68,6 +65,8 @@
         <option value="$PROJECT_DIR$/Line/BasicAreaChart/main.js" />
         <option value="$PROJECT_DIR$/Line/SmoothedLineChart/smoothedLineChart.html" />
         <option value="$PROJECT_DIR$/Line/SmoothedLineChart/main.js" />
+        <option value="$PROJECT_DIR$/Line/StackedAreaBar/main.js" />
+        <option value="$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html" />
       </list>
     </option>
   </component>
@@ -115,13 +114,7 @@
               <item name="firstTry" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstTry" type="462c0819:PsiDirectoryNode" />
               <item name="Line" type="462c0819:PsiDirectoryNode" />
-              <item name="BasicAreaChart" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="firstTry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="firstTry" type="462c0819:PsiDirectoryNode" />
-              <item name="Line" type="462c0819:PsiDirectoryNode" />
-              <item name="SmoothedLineChart" type="462c0819:PsiDirectoryNode" />
+              <item name="StackedAreaBar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,19 +141,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.smoothedLineChart.html">
+  <component name="RunManager" selected="JavaScript Debug.stackedAreaBar.html">
     <configuration name="basicAreaChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/BasicAreaChart/basicAreaChart.html" />
     <configuration name="basicLineChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/BasicLineChart/basicLineChart.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/index.html" />
     <configuration name="smoothedLineChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/SmoothedLineChart/smoothedLineChart.html" />
+    <configuration name="stackedAreaBar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/StackedAreaBar/stackedAreaBar.html" />
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.basicLineChart.html" />
       <item itemvalue="JavaScript Debug.basicAreaChart.html" />
       <item itemvalue="JavaScript Debug.smoothedLineChart.html" />
+      <item itemvalue="JavaScript Debug.stackedAreaBar.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.stackedAreaBar.html" />
         <item itemvalue="JavaScript Debug.smoothedLineChart.html" />
         <item itemvalue="JavaScript Debug.basicAreaChart.html" />
         <item itemvalue="JavaScript Debug.basicLineChart.html" />
@@ -179,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525397762758</updated>
       <workItem from="1525397764041" duration="2796000" />
-      <workItem from="1525457993745" duration="1350000" />
+      <workItem from="1525457993745" duration="2149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4146000" />
+    <option name="totallyTimeSpent" value="4945000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -197,8 +193,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.276808" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3990025" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.276808" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -238,17 +234,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ndgl.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Line/BasicLineChart/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -296,6 +281,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Line/SmoothedLineChart/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Line/BasicAreaChart/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -303,10 +306,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Line/SmoothedLineChart/main.js">
+    <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/StackedAreaBar/stackedAreaBar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
