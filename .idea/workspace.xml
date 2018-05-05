@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41faf12c-f666-4035-9d4a-453028c6bb42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Line/BeiJing-AQI/aqi-beijing.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/BeiJing-AQI/beiJingAQI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/BeiJing-AQI/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/DraggingPoints/draggingPoints.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/DraggingPoints/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="beiJingAQI.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Line/BeiJing-AQI/beiJingAQI.html">
+      <file leaf-file-name="draggingPoints.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Line/DraggingPoints/draggingPoints.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="165">
+              <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -32,10 +31,10 @@
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Line/BeiJing-AQI/main.js">
+        <entry file="file://$PROJECT_DIR$/Line/DraggingPoints/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+            <state relative-caret-position="915">
+              <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -92,6 +91,8 @@
         <option value="$PROJECT_DIR$/Line/BeiJing-AQI/aqi-beijing.json.js" />
         <option value="$PROJECT_DIR$/Line/BeiJing-AQI/beiJingAQI.html" />
         <option value="$PROJECT_DIR$/Line/BeiJing-AQI/main.js" />
+        <option value="$PROJECT_DIR$/Line/DraggingPoints/draggingPoints.html" />
+        <option value="$PROJECT_DIR$/Line/DraggingPoints/main.js" />
       </list>
     </option>
   </component>
@@ -139,7 +140,7 @@
               <item name="firstTry" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstTry" type="462c0819:PsiDirectoryNode" />
               <item name="Line" type="462c0819:PsiDirectoryNode" />
-              <item name="BeiJing-AQI" type="462c0819:PsiDirectoryNode" />
+              <item name="DraggingPoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,26 +167,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.beiJingAQI.html">
+  <component name="RunManager" selected="JavaScript Debug.draggingPoints.html">
     <configuration name="beiJingAQI.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/BeiJing-AQI/beiJingAQI.html" />
     <configuration name="confidenceBand.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/ConfidenceBand/confidenceBand.html" />
+    <configuration name="draggingPoints.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/DraggingPoints/draggingPoints.html" />
     <configuration name="dynamicDataTimeAxis.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html" />
-    <configuration name="largeScaleAreaChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/LargeScaleAreaChart/largeScaleAreaChart.html" />
     <configuration name="rainFallAndWaterFlow.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html" />
     <list>
-      <item itemvalue="JavaScript Debug.largeScaleAreaChart.html" />
       <item itemvalue="JavaScript Debug.confidenceBand.html" />
       <item itemvalue="JavaScript Debug.dynamicDataTimeAxis.html" />
       <item itemvalue="JavaScript Debug.rainFallAndWaterFlow.html" />
       <item itemvalue="JavaScript Debug.beiJingAQI.html" />
+      <item itemvalue="JavaScript Debug.draggingPoints.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.draggingPoints.html" />
         <item itemvalue="JavaScript Debug.beiJingAQI.html" />
         <item itemvalue="JavaScript Debug.rainFallAndWaterFlow.html" />
         <item itemvalue="JavaScript Debug.dynamicDataTimeAxis.html" />
         <item itemvalue="JavaScript Debug.confidenceBand.html" />
-        <item itemvalue="JavaScript Debug.largeScaleAreaChart.html" />
       </list>
     </recent_temporary>
   </component>
@@ -200,12 +201,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525397762758</updated>
       <workItem from="1525397764041" duration="2796000" />
-      <workItem from="1525457993745" duration="11729000" />
+      <workItem from="1525457993745" duration="13447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14525000" />
+    <option name="totallyTimeSpent" value="16243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -481,6 +482,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Line/BeiJing-AQI/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Line/BeiJing-AQI/beiJingAQI.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -491,10 +499,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Line/BeiJing-AQI/main.js">
+    <entry file="file://$PROJECT_DIR$/Line/DraggingPoints/draggingPoints.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="81" column="49" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/DraggingPoints/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="61" column="53" selection-start-line="61" selection-start-column="53" selection-end-line="61" selection-end-column="53" />
         </state>
       </provider>
     </entry>
