@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41faf12c-f666-4035-9d4a-453028c6bb42" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/RainfallAndWaterFlow/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dynamicDataTimeAxis.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html">
+      <file leaf-file-name="rainFallAndWaterFlow.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -31,10 +31,10 @@
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/main.js">
+        <entry file="file://$PROJECT_DIR$/Line/RainfallAndWaterFlow/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="-337">
+              <caret line="123" column="71" selection-start-line="123" selection-start-column="71" selection-end-line="123" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -85,6 +85,9 @@
         <option value="$PROJECT_DIR$/Line/ConfidenceBand/main.js" />
         <option value="$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html" />
         <option value="$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/main.js" />
+        <option value="$PROJECT_DIR$/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html" />
+        <option value="$PROJECT_DIR$/Line/RainfallAndWaterFlow/data.json" />
+        <option value="$PROJECT_DIR$/Line/RainfallAndWaterFlow/main.js" />
       </list>
     </option>
   </component>
@@ -132,7 +135,7 @@
               <item name="firstTry" type="b2602c69:ProjectViewProjectNode" />
               <item name="firstTry" type="462c0819:PsiDirectoryNode" />
               <item name="Line" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicDataPlusTimeAxis" type="462c0819:PsiDirectoryNode" />
+              <item name="RainfallAndWaterFlow" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,26 +162,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.dynamicDataTimeAxis.html">
+  <component name="RunManager" selected="JavaScript Debug.rainFallAndWaterFlow.html">
     <configuration name="confidenceBand.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/ConfidenceBand/confidenceBand.html" />
     <configuration name="dynamicDataTimeAxis.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html" />
     <configuration name="largeScaleAreaChart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/LargeScaleAreaChart/largeScaleAreaChart.html" />
     <configuration name="rainFaLL.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/Rainfall/rainFaLL.html" />
-    <configuration name="stackedLineBar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/StackedLineBar/stackedLineBar.html" />
+    <configuration name="rainFallAndWaterFlow.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/firstTry/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html" />
     <list>
-      <item itemvalue="JavaScript Debug.stackedLineBar.html" />
       <item itemvalue="JavaScript Debug.rainFaLL.html" />
       <item itemvalue="JavaScript Debug.largeScaleAreaChart.html" />
       <item itemvalue="JavaScript Debug.confidenceBand.html" />
       <item itemvalue="JavaScript Debug.dynamicDataTimeAxis.html" />
+      <item itemvalue="JavaScript Debug.rainFallAndWaterFlow.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.rainFallAndWaterFlow.html" />
         <item itemvalue="JavaScript Debug.dynamicDataTimeAxis.html" />
         <item itemvalue="JavaScript Debug.confidenceBand.html" />
         <item itemvalue="JavaScript Debug.largeScaleAreaChart.html" />
         <item itemvalue="JavaScript Debug.rainFaLL.html" />
-        <item itemvalue="JavaScript Debug.stackedLineBar.html" />
       </list>
     </recent_temporary>
   </component>
@@ -193,25 +196,25 @@
       <option name="presentableId" value="Default" />
       <updated>1525397762758</updated>
       <workItem from="1525397764041" duration="2796000" />
-      <workItem from="1525457993745" duration="8277000" />
+      <workItem from="1525457993745" duration="10447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11073000" />
+    <option name="totallyTimeSpent" value="13243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.276808" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.276808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990025" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -426,6 +429,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/dynamicDataTimeAxis.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -436,10 +446,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Line/DynamicDataPlusTimeAxis/main.js">
+    <entry file="file://$PROJECT_DIR$/Line/RainfallAndWaterFlow/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/RainfallAndWaterFlow/rainFallAndWaterFlow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Line/RainfallAndWaterFlow/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-337">
+          <caret line="123" column="71" selection-start-line="123" selection-start-column="71" selection-end-line="123" selection-end-column="71" />
         </state>
       </provider>
     </entry>
